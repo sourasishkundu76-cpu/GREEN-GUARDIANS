@@ -1,0 +1,6 @@
+{
+  "name": "GREEN GUARDIANS - AI + IoT Smart Plant Care Platform",
+  "description": "Sense, Understand, Protect, Grow. Intelligent soil analysis, 3D plant digital twins, AI plant doctor diagnosis, and automated smart irrigation closed-loop system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
